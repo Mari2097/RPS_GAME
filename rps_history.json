@@ -1,0 +1,176 @@
+[
+  {
+    "time": "2025-10-14 01:08:06",
+    "player": "paper",
+    "computer": "scissor",
+    "result": "win"
+  },
+  {
+    "time": "2025-10-14 01:08:09",
+    "player": "scissor",
+    "computer": " paper",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:08:11",
+    "player": "rock",
+    "computer": " paper",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:08:12",
+    "player": "rock",
+    "computer": "scissor",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:08:13",
+    "player": "rock",
+    "computer": "scissor",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:08:14",
+    "player": "rock",
+    "computer": "scissor",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:08:15",
+    "player": "paper",
+    "computer": " stone ",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:08:19",
+    "player": "scissor",
+    "computer": "scissor",
+    "result": " Equal"
+  },
+  {
+    "time": "2025-10-14 01:08:23",
+    "player": "paper",
+    "computer": " paper",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:08:37",
+    "player": "paper",
+    "computer": " stone ",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:08:39",
+    "player": "paper",
+    "computer": " stone ",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:08:40",
+    "player": "scissor",
+    "computer": "scissor",
+    "result": " Equal"
+  },
+  {
+    "time": "2025-10-14 01:08:42",
+    "player": "rock",
+    "computer": " stone ",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:08:43",
+    "player": "rock",
+    "computer": "scissor",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:08:44",
+    "player": "rock",
+    "computer": " stone ",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:08:46",
+    "player": "rock",
+    "computer": " paper",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:08:49",
+    "player": "rock",
+    "computer": " paper",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:08:50",
+    "player": "rock",
+    "computer": "scissor",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:10:56",
+    "player": "paper",
+    "computer": " stone ",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:10:59",
+    "player": "scissor",
+    "computer": "scissor",
+    "result": " Equal"
+  },
+  {
+    "time": "2025-10-14 01:11:01",
+    "player": "scissor",
+    "computer": " stone ",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:11:05",
+    "player": "scissor",
+    "computer": " paper",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:12:45",
+    "player": "scissor",
+    "computer": " paper",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:12:46",
+    "player": "paper",
+    "computer": "scissor",
+    "result": "win"
+  },
+  {
+    "time": "2025-10-14 01:12:47",
+    "player": "rock",
+    "computer": "scissor",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:12:48",
+    "player": "paper",
+    "computer": " paper",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:12:49",
+    "player": "rock",
+    "computer": "scissor",
+    "result": "Loss"
+  },
+  {
+    "time": "2025-10-14 01:12:50",
+    "player": "scissor",
+    "computer": "scissor",
+    "result": " Equal"
+  },
+  {
+    "time": "2025-10-14 01:12:51",
+    "player": "paper",
+    "computer": "scissor",
+    "result": "win"
+  }
+]
